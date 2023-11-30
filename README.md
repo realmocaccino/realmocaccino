@@ -1,7 +1,7 @@
 # Luiz Gustavo
 **`Senior PHP Developer / Laravel Certified`**
 
-I'm a software engineer based in Rio. I've been building websites using PHP for over 14 years.
+I'm a software engineer based in Rio and I've been building websites using PHP for over 14 years.
 
 I'm the founder of [Nota do Game](https://notadogame.com) — a gaming review platform where people rate and share their thoughts on titles they played.
 
