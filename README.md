@@ -1,4 +1,5 @@
-### Hi there! I'm Luiz Gustavo.
+# Hi there! I'm Luiz Gustavo.
+**`Senior PHP Developer / Laravel Certified`**
 
 I'm a software engineer based in Rio. I've been building websites using PHP for over 14 years.
 
