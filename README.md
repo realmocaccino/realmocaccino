@@ -16,3 +16,6 @@ Nota do Game allows gamers to rate and review their favorite titles, as well as 
 
 ## [Jauntyslider](https://jauntyslider.luizgustavomartins.com)
 A lightweight and dependency-free JavaScript package that turns any HTML list into a fully functional carousel. The codebase takes advantage of ES6+ features compiled to ES5 to support older browsers.
+
+## [PIPA (discontinued)](https://luizgustavomartins.com)
+A CMS similar to WordPress that provided a content management environment for websites.
