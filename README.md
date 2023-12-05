@@ -17,7 +17,6 @@ Feel free to contact me at lgustavoms@gmail.com.
 Nota do Game allows gamers to rate and review their favorite titles, as well as create personal game collections.
 \
 \
-\
 <img src="https://luizgustavomartins.com/img/projects/jauntyslider.png" alt="Jauntyslider logo" width="62" align="left"/>
 
 ## [Jauntyslider](https://jauntyslider.luizgustavomartins.com)
