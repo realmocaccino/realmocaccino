@@ -11,19 +11,21 @@ Feel free to contact me at lgustavoms@gmail.com.
 
 # Projects that I've created.
 
-<img src="https://luizgustavomartins.com/img/projects/notadogame.png" alt="Nota do Game logo" width="54" align="left"/>
+<img src="https://luizgustavomartins.com/img/projects/notadogame.png" alt="Nota do Game logo" width="90" align="left"/>
 
 ## [Nota do Game](https://notadogame.com)
 Nota do Game allows gamers to rate and review their favorite titles, as well as create personal game collections.
 \
 \
-<img src="https://luizgustavomartins.com/img/projects/jauntyslider.png" alt="Jauntyslider logo" width="62" align="left"/>
+\
+<img src="https://luizgustavomartins.com/img/projects/jauntyslider.png" alt="Jauntyslider logo" width="95" align="left"/>
 
 ## [Jauntyslider](https://jauntyslider.luizgustavomartins.com)
 A lightweight and dependency-free JavaScript package that turns any HTML list into a fully functional carousel.
 \
 \
-<img src="https://luizgustavomartins.com/img/projects/pipa.png" alt="Pipa logo" width="62" align="left"/>
+\
+<img src="https://luizgustavomartins.com/img/projects/pipa.png" alt="Pipa logo" width="90" align="left"/>
 
 ## [PIPA (discontinued)](https://luizgustavomartins.com)
 A CMS similar to WordPress that provided a content management environment for websites.
