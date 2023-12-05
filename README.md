@@ -11,7 +11,7 @@ Feel free to contact me at lgustavoms@gmail.com.
 
 # Projects that I've created.
 
-<img src="https://luizgustavomartins.com/img/projects/notadogame.png" alt="Nota do Game logo" width="56" align="left"/>
+<img src="https://luizgustavomartins.com/img/projects/notadogame.png" alt="Nota do Game logo" width="54" align="left"/>
 
 ## [Nota do Game](https://notadogame.com)
 Nota do Game allows gamers to rate and review their favorite titles, as well as create personal game collections.
