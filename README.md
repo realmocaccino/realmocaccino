@@ -3,7 +3,7 @@
 
 I'm a software engineer based in Santa Catarina, Brazil and I've been building websites using PHP for over 18 years.
 
-Currently I'm proudly working for [GovDigital](https://github.com/GovDigital).
+I'm proudly working for [GovDigital](https://github.com/GovDigital).
 
 I'm the founder of [Nota do Game](https://notadogame.com) — a gaming review platform where people rate and share their thoughts on titles they played.
 
