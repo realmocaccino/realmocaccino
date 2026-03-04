@@ -3,8 +3,6 @@
 
 I'm a software engineer based in Rio de Janeiro, Brazil and I've been building websites using PHP for over 18 years.
 
-I'm the founder of [Nota do Game](https://notadogame.com) — a gaming review platform where people rate and share their thoughts on titles they played.
-
 My expertise extends to Laravel, framework that [I'm officially certified](https://exam.laravelcert.com/is/luiz-gustavo-martins-da-silva/certified-since/2019-03-20).
 
 Feel free to contact me at lgustavoms@gmail.com.
