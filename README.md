@@ -1,9 +1,9 @@
 # Luiz Gustavo Martins
 **`Senior PHP Developer / Laravel Certified`**
 
-I'm a [certified Laravel developer](https://verifier.certificationforlaravel.org/44ac1f5c-7cb9-4853-b049-48ce2b45a5c3) based in Rio de Janeiro and I've been building websites using PHP for over 18 years.
+I'm a [certified Laravel developer](https://verifier.certificationforlaravel.org/44ac1f5c-7cb9-4853-b049-48ce2b45a5c3) with over 15 years of experience building web applications, from backend architecture to responsive frontends.
 
-You can visit my website to explore my projects:
+Visit my website to explore my projects:
 [https://luizgustavomartins.com](https://luizgustavomartins.com)
 
 Feel free to contact me at lgustavoms@gmail.com.
