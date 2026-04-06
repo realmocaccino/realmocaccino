@@ -3,7 +3,7 @@
 
 I'm a software engineer based in Rio de Janeiro and I've been building websites using PHP for over 18 years.
 
-My expertise extends to Laravel, framework that [I'm officially certified](https://exam.laravelcert.com/is/luiz-gustavo-martins-da-silva/certified-since/2019-03-20](https://verifier.certificationforlaravel.org/44ac1f5c-7cb9-4853-b049-48ce2b45a5c3).
+My expertise extends to Laravel, framework that [I'm officially certified](https://verifier.certificationforlaravel.org/44ac1f5c-7cb9-4853-b049-48ce2b45a5c3).
 
 You can visit my website to explore my projects:
 [https://luizgustavomartins.com](https://luizgustavomartins.com)
