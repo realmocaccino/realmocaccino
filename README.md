@@ -57,7 +57,7 @@ Focused on simplicity and full control.
 
 ## Core Stack
 
-PHP · Laravel · Symfony · Docker · JavaScript · Vue · Tailwind · Livewire · Inertia · Bootstrap · Vite · SQL · Linux · Git · Kubernetes · Stripe
+PHP · Laravel · Symfony · Docker · JavaScript · Vue · Tailwind · Livewire · Inertia · Bootstrap · Vite · SQL · Linux · Kubernetes
 
 ---
 
