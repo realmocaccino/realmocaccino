@@ -1,30 +1,74 @@
 # Luiz Gustavo Martins
-**`Senior PHP Developer / Laravel Certified`**
 
-I'm a [certified Laravel developer](https://verifier.certificationforlaravel.org/44ac1f5c-7cb9-4853-b049-48ce2b45a5c3) with over 15 years of experience building web applications, from backend architecture to responsive frontends.
+Senior PHP developer focused on building well-structured, maintainable web applications.
 
-Visit my website to explore my projects:
-[https://luizgustavomartins.com](https://luizgustavomartins.com)
+Laravel, APIs, and full-stack systems with a focus on clarity and long-term stability.
 
-Feel free to contact me at lgustavoms@gmail.com.
+Certified Laravel Developer — [Verify certification]([https://luizgustavomartins.com](https://verifier.certificationforlaravel.org/44ac1f5c-7cb9-4853-b049-48ce2b45a5c3))
 
-# Projects that I've created.
+[luizgustavomartins.com](https://luizgustavomartins.com)
 
-<img src="https://luizgustavomartins.com/img/projects/notadogame.png" alt="Nota do Game logo" width="90" align="left"/>
+---
 
-## [Nota do Game](https://notadogame.com)
-Nota do Game allows gamers to rate and review their favorite titles, as well as create personal game collections.
-\
-\
-\
-<img src="https://luizgustavomartins.com/img/projects/jauntyslider.png" alt="Jauntyslider logo" width="95" align="left"/>
+## What I care about
 
-## [Jauntyslider](https://jauntyslider.luizgustavomartins.com)
-A lightweight and dependency-free JavaScript package that turns any HTML list into a fully functional carousel.
-\
-\
-\
-<img src="https://luizgustavomartins.com/img/projects/pipa.png" alt="Pipa logo" width="90" align="left"/>
+- Code that stays understandable over time  
+- Simple solutions over unnecessary abstractions  
+- Predictable, maintainable architecture  
+- Building things that are actually used  
 
-## [PIPA (discontinued)](https://luizgustavomartins.com)
-A CMS similar to WordPress that provided a content management environment for websites.
+---
+
+## Projects
+
+<img src="https://luizgustavomartins.com/img/projects/notadogame.png" width="65" align="left"/>
+
+### Nota do Game  
+https://notadogame.com
+
+Game rating platform where users review titles and manage personal collections.  
+Built end-to-end — backend, frontend, and product decisions.
+
+<br clear="left"/>
+
+---
+
+<img src="https://luizgustavomartins.com/img/projects/jauntyslider.png" width="65" align="left"/>
+
+### Jauntyslider  
+https://jauntyslider.luizgustavomartins.com
+
+Lightweight, dependency-free JavaScript slider.  
+Turns a plain HTML list into a usable carousel.
+
+<br clear="left"/>
+
+---
+
+<img src="https://luizgustavomartins.com/img/projects/pipa.png" width="65" align="left"/>
+
+### PIPA *(discontinued)*  
+https://luizgustavomartins.com
+
+CMS built from scratch, inspired by WordPress.  
+Focused on simplicity and full control.
+
+<br clear="left"/>
+
+---
+
+## Work
+
+15+ years building web applications.
+
+Laravel, REST APIs, admin panels, and system design across the stack.
+
+---
+
+## Tech
+
+PHP · Laravel · JavaScript · Vue · MySQL · Tailwind · Vite
+
+---
+
+Contact: lgustavoms@gmail.com
