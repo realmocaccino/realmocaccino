@@ -55,17 +55,9 @@ Focused on simplicity and full control.
 
 ---
 
-## Work
+## Core Stack
 
-15+ years building web applications.
-
-Laravel, REST APIs, admin panels, and system design across the stack.
-
----
-
-## Tech
-
-PHP · Laravel · JavaScript · Vue · MySQL · Tailwind · Vite
+PHP · Laravel · Symfony · Docker · JavaScript · Vue · Tailwind · Livewire · Inertia · Bootstrap · Vite · SQL · Linux · Git · Kubernetes · Stripe
 
 ---
 
