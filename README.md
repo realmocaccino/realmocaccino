@@ -1,10 +1,7 @@
 # Luiz Gustavo Martins
 
 Senior PHP developer focused on building well-structured, maintainable web applications.
-
-Laravel, APIs, and full-stack systems with a focus on clarity and long-term stability.
-
-Certified Laravel Developer — [Verify certification]([https://luizgustavomartins.com](https://verifier.certificationforlaravel.org/44ac1f5c-7cb9-4853-b049-48ce2b45a5c3))
+I've also been using Laravel since its version 3, framework that I'm officially certified — [Verify certification](https://verifier.certificationforlaravel.org/44ac1f5c-7cb9-4853-b049-48ce2b45a5c3)
 
 [luizgustavomartins.com](https://luizgustavomartins.com)
 
